@@ -29,8 +29,7 @@
   "autoload-dev": {
     "psr-4": {
       "AlanScott75\\RectorLaravel\\Tests\\": "tests"
-    },
-    "classmap": ["stubs"]
+    }
   },
   "scripts": {
     "phpstan": "vendor/bin/phpstan analyse --ansi --error-format symplify",
